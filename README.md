@@ -1,6 +1,6 @@
-# Sauce Connect in Docker
+# Dockerfile for Sauce Connect
 
-Produces an image that runs [Sauce Connect](https://docs.saucelabs.com/reference/sauce-connect/).
+A Docker image for [Sauce Connect](https://docs.saucelabs.com/reference/sauce-connect/).
 
 ## Build
 
